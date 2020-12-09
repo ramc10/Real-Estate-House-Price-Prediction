@@ -2,10 +2,10 @@
 
 Technology and Libraries Used:
 
-Linear regression
-Python
-Sklearn
-Pandas
-Matplot
-Seaborn
-Numpy
+Linear regression,
+Python,
+Sklearn,
+Pandas,
+Matplot,
+Seaborn,
+Numpy.
